@@ -1,4 +1,4 @@
-from constants import *
+from pathfinding.constants import *
 import pygame
 
 class Block:

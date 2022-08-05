@@ -1,6 +1,6 @@
 import pygame
-from constants import *
-from blocks import Block
+from pathfinding.constants import *
+from pathfinding.blocks import Block
 
 WINDOW = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Dijkstra Algorithm Visualizer")
